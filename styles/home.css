@@ -21,4 +21,12 @@
     color: white;
     font-size: 40px;
     text-shadow: 1px 3px 7px rgb(65, 65, 65);
+    padding: 50px;
+    margin-left: 90px;
+}
+
+.container-cardapio{
+    max-width: 100%;
+    padding: 16,66%;
+    background-size: contain;
 }
