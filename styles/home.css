@@ -9,10 +9,6 @@
     top: 8%;
 }
 
-.texto-promo{
-    color: red;
-}
-
 .container-texto-carousel{
     display: inline-block;
     position: relative;
@@ -22,6 +18,7 @@
     position: absolute;
     top: 145px;
     right: 60%;
-    color: red;
+    color: white;
     font-size: 40px;
+    text-shadow: 1px 3px 7px rgb(65, 65, 65);
 }
