@@ -21,24 +21,26 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link" href="">Inicio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="">Sobre Street Food</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="">Cardápio</a>
-                    </li>
-                    <img class="logo" href="index.html" src="/assets/logo.png">
-                    <li class="nav-item">
-                        <a class="nav-link" href="">Localização</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="">Contato</a>
-                    </li>
-                </ul>
+                <div class="text-start mx-5">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" href="">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="">Sobre</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="">Cardápio</a>
+                        </li>
+                        <img class="logo" href="index.html" src="/assets/logo.png">
+                        <li class="nav-item">
+                            <a class="nav-link" href="">Localização</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="">Contato</a>
+                        </li>
+                    </ul>
+                </div>
                 <div class="text-end">
                     <a href="login.html" class="btn btn-light">Entrar</a>
                     <a href="cadastre-se.html" class="btn btn-warning">Cadastre-se</a>
@@ -47,7 +49,8 @@
         </div>
     </nav>
     <!--Menu-->
-    <!--Carrosel-->
+    <div class="container-geral">
+        <!--Carrosel-->
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
@@ -60,7 +63,7 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <div class="container-texto-carousel">
-                    <img src="/assets/hamburguer de bacon.png" class="d-block w-100" alt="...">
+                    <img src="/assets/hamburguer-de-bacon.png" class="d-block w-100" alt="...">
                     <div class="texto-promo">
                         <h1>Bacon</h1>
                         <h2>Hambúrguer</h2>
@@ -70,10 +73,9 @@
                     </div>
                 </div>
             </div>
-            <div class="carousel-inner">
-                <div class="carousel-item active">
+                <div class="carousel-item">
                     <div class="container-texto-carousel">
-                        <img src="/assets/Frango frito.png" class="d-block w-100" alt="...">
+                        <img src="/assets/frango-frito.png" class="d-block w-100" alt="...">
                         <div class="texto-promo">
                             <h1>Quente & picante</h1>
                             <h2>Frango frito</h2>
@@ -83,10 +85,9 @@
                         </div>
                     </div>
                 </div>
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
+                    <div class="carousel-item">
                         <div class="container-texto-carousel">
-                            <img src="/assets/Combo.png" class="d-block w-100" alt="...">
+                            <img src="/assets/combo.png" class="d-block w-100" alt="...">
                             <div class="texto-promo">
                                 <h1>Mega</h1>
                                 <h2>Combo</h2>
@@ -96,7 +97,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"
             data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -111,26 +111,25 @@
     <!--Carrosel-->
     <!--Opções visuais-->
     <div class="container-cardapio">
-        <div class="cardapio">
-            <a href="#">
-                <img src="/assets/hamburguer.jpg" class="w3-round" alt="Norway">
-             </a>
-            <a href="#">
-                <img src="/assets/pizza.jpg" class="w3-round" alt="Norway">
+        <a href="#">
+            <img src="/assets/hamburguer.jpg" class="w3-round" alt="Norway">
             </a>
-            <a href="#">
-                <img src="/assets/sanduiches.jpg" class="w3-round" alt="Norway">
-            </a>
-            <a href="#">
-                <img src="/assets/acompanhamentos.jpg" class="w3-round" alt="Norway">
-            </a>
-            <a href="#">
-                <img src="/assets/bebidas.jpg" class="w3-round" alt="Norway">
-            </a>
-            <a href="#">
-                <img src="/assets/sobremesas.jpg" class="w3-round" alt="Norway">
-            </a>
-        </div>
+        <a href="#">
+            <img src="/assets/pizza.jpg" class="w3-round" alt="Norway">
+        </a>
+        <a href="#">
+            <img src="/assets/sanduiches.jpg" class="w3-round" alt="Norway">
+        </a>
+        <a href="#">
+            <img src="/assets/acompanhamentos.jpg" class="w3-round" alt="Norway">
+        </a>
+        <a href="#">
+            <img src="/assets/bebidas.jpg" class="w3-round" alt="Norway">
+        </a>
+        <a href="#">
+            <img src="/assets/sobremesas.jpg" class="w3-round" alt="Norway">
+        </a>
+    </div>
     </div>
     <!--Opções visuais-->
     <script src="/scripts/home.js"></script>

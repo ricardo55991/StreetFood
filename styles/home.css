@@ -1,3 +1,12 @@
+body{
+    height: 100%;
+}
+
+.container-geral{
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
 .logo{
     width: 45px; 
     margin-left: 45px; 
@@ -10,7 +19,6 @@
 }
 
 .container-texto-carousel{
-    display: inline-block;
     position: relative;
 }
 
@@ -25,14 +33,27 @@
     margin-left: 90px;
 }
 
-.container-cardapio{
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 180px;
+body .container-cardapio{
+    justify-content: center;
 }
-div.container-cardapio img {
-    width: 100%;
-    height: auto;
-  }
+
+.container-cardapio{
+    display: flex;
+    margin-top: 35px;
+}
+
+.container-cardapio a img{
+    max-width: 160px;
+    margin: 30px;
+}
+
+.collapse{
+    justify-content: center;
+}
+
+body .collapse .text-end a{
+   margin-left: 5px;
+}
+
+
   
