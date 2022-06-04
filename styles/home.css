@@ -1,15 +1,8 @@
-.menu-principal{
-    
-}
-
 .logo{
     width: 45px; 
     margin-left: 45px; 
     margin-right: 65px; 
     align-items: center;
-}
-
-.menu-itens{
 }
 
 .container-menu-itens{
@@ -18,5 +11,17 @@
 
 .texto-promo{
     color: red;
-    
+}
+
+.container-texto-carousel{
+    display: inline-block;
+    position: relative;
+}
+
+.container-texto-carousel .texto-promo{
+    position: absolute;
+    top: 145px;
+    right: 60%;
+    color: red;
+    font-size: 40px;
 }
