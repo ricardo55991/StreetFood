@@ -26,7 +26,13 @@
 }
 
 .container-cardapio{
-    max-width: 100%;
-    padding: 16,66%;
-    background-size: contain;
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
 }
+div.container-cardapio img {
+    width: 100%;
+    height: auto;
+  }
+  
