@@ -55,5 +55,16 @@ body .collapse .text-end a{
    margin-left: 5px;
 }
 
+.inical-produtos{
+    display: flexbox;
+    margin-left: 30px;
+}
 
-  
+.texto-merchan{
+    text-align: center;
+    margin: 15px;
+}
+
+.entrega{
+    margin: 15px;
+}
