@@ -69,3 +69,8 @@ body .collapse .text-end a{
 .entrega{
     margin: 15px;
 }
+
+figure{
+    max-width: 100px;
+    margin: 30px;
+}
