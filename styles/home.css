@@ -7,13 +7,6 @@ body{
     margin: 0 auto;
 }
 
-.logo{
-    width: 45px; 
-    margin-left: 45px; 
-    margin-right: 65px; 
-    align-items: center;
-}
-
 .container-menu-itens{
     top: 8%;
 }
@@ -47,13 +40,6 @@ body .container-cardapio{
     margin: 30px;
 }
 
-.collapse{
-    justify-content: center;
-}
-
-body .collapse .text-end a{
-   margin-left: 5px;
-}
 
 .inical-produtos{
     display: flexbox;
@@ -73,4 +59,20 @@ body .collapse .text-end a{
 figure{
     max-width: 100px;
     margin: 30px;
+}
+
+/* Headear */
+.collapse{
+    justify-content: center;
+}
+
+body .collapse .text-end a{
+   margin-left: 5px;
+}
+
+.logo{
+    width: 45px; 
+    margin-left: 45px; 
+    margin-right: 65px; 
+    align-items: center;
 }

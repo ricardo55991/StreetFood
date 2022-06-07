@@ -2,10 +2,6 @@
     top: 8%;
 }
 
-.logo{
-    width: 45px; 
-    align-items: center;
-}
 .conteiner{
     margin-top: 30px;
     display: flex;
@@ -74,5 +70,22 @@
 
 .content-card p{
     font-family: 'Roboto', sans-serif;
+}
+
+/* Headear */
+
+.collapse{
+    justify-content: center;
+}
+
+body .collapse .text-end a{
+   margin-left: 5px;
+}
+
+.logo{
+    width: 45px; 
+    margin-left: 45px; 
+    margin-right: 65px; 
+    align-items: center;
 }
 

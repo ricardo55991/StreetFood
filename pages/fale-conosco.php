@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/styles/home.css" rel="stylesheet">
+    <link href="../styles/home.css" rel="stylesheet">
     <link href="footers.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
@@ -25,26 +25,26 @@
                 <div class="text-start mx-5">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link" href="home.html">Inicio</a>
+                            <a class="nav-link" href="home.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="sobre.html">Sobre</a>
+                            <a class="nav-link" href="sobre.php">Sobre</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="">Cardápio</a>
                         </li>
-                        <img class="logo" href="index.html" src="/assets/logo.png">
+                        <img class="logo" href="index.php" src="../assets/logo.png">
                         <li class="nav-item">
                             <a class="nav-link" href="">Localização</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="fale-conosco.html">Fale conosco</a>
+                            <a class="nav-link" href="fale-conosco.php">Fale conosco</a>
                         </li>
                     </ul>
                 </div>
                 <div class="text-end">
-                    <a href="login.html" class="btn btn-light">Entrar</a>
-                    <a href="cadastre-se.html" class="btn btn-warning">Cadastre-se</a>
+                    <a href="login.php" class="btn btn-light">Entrar</a>
+                    <a href="cadastre-se.php" class="btn btn-warning">Cadastre-se</a>
                 </div>
             </div>
         </div>
@@ -96,12 +96,12 @@
       
             <div class="col-2">
               <ul class="nav flex-column">
-                <a href="home.html">
-                    <img src="/assets/logo.png" class="bi" width="65" height="65"></img>
+                <a href="home.php">
+                    <img src="../assets/logo.png" class="bi" width="65" height="65"></img>
                   </a>
-                <li class="nav-item mb-2"><a href="sobre.html" class="nav-link p-0 text-muted">Sobre</a></li>
+                <li class="nav-item mb-2"><a href="sobre.php" class="nav-link p-0 text-muted">Sobre</a></li>
                 <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Localização</a></li>
-                <li class="nav-item mb-2"><a href="fale-conosco.html" class="nav-link p-0 text-muted">Fale conosco</a></li>
+                <li class="nav-item mb-2"><a href="fale-conosco.php" class="nav-link p-0 text-muted">Fale conosco</a></li>
               </ul>
             </div>
       
@@ -142,7 +142,7 @@
     <!--Footer-->
 
 
-    <script src="/scripts/home.js"></script>
+    <script src="../scripts/home.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
         crossorigin="anonymous"></script>
