@@ -18,7 +18,7 @@
             </div>
             <div class="card-content">
                 <div class="card-content-area">
-                    <label for="usuario">Login</label>
+                    <label for="usuario">E-mail</label>
                     <input type="text" id="usuario" autocomplete="off">
                 </div>
                 <div class="card-content-area">
