@@ -32,9 +32,9 @@
             </div>
             <div class="card-footer">
                 <a href="../pages/home.php">
-                    <input type="submit" value="Login" class="submit">
+                    <input type="submit" value="Cadastrar" class="submit">
                 </a>
-                <a href="#" class="recuperar_senha">Esqueceu a senha?</a>
+                <a href="#" class="ja_tenho_cadastro">Já tem conta?</a>
             </div>
         </form>
     </div>
