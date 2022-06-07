@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../assets/favicon.ico" type="image/x-icon">
     <link href="../styles/home.css" rel="stylesheet">
     <link href="footers.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
@@ -31,7 +32,7 @@
                             <a class="nav-link" href="sobre.php">Sobre</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="">Cardápio</a>
+                        <a class="nav-link" href="cardapio.php">Cardápio</a>
                         </li>
                         <img class="logo" href="index.php" src="../assets/logo.png">
                         <li class="nav-item">

@@ -18,22 +18,26 @@
     <!--Menu-->
 
     <!--Cards-->
+
+    <!--BURGERS-->
     <div class="conteiner">
         <div class="cards">
-            <!--BURGERS-->
             <h1>Hambúrguers</h1>
             <div class="contents">
                 <P id="descricao">Hambúrguers artesanais sob encomenda. Servido com picles de alho e batatas fritas.</P>
                 <div class="card-1">
-                    <img src="../assets/hamburger teste.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/burger15-100x100.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
                             <h5>Angus Original</h5>
-                            <h6>$9,99</h6>
+                            <h6>R$9,99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles.
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!
                             </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
@@ -42,10 +46,13 @@
                     <div class="flex-card">
                         <div class="titulo">
                             <h5>Bacon Angus</h5>
-                            <h6>$10,99</h6>
+                            <h6>R$10,99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles </p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
@@ -53,11 +60,14 @@
                     <img src="../assets/burger20-100x100.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5> Corporis, undet sui.</h5>
-                            <h6>$10,99</h6>
+                            <h5> BBQ Bacon Burger</h5>
+                            <h6>R$12,90</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles </p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
@@ -66,10 +76,13 @@
                     <div class="flex-card">
                         <div class="titulo">
                             <h5>Western Bacon Angus</h5>
-                            <h6>$10,99</h6>
+                            <h6>R$13,30</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles </p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
@@ -77,11 +90,14 @@
                     <img src="../assets/burger12-100x100.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Western Bacon Angus</h5>
-                            <h6>$10,99</h6>
+                            <h5>Shroom Angus Burger</h5>
+                            <h6>R$15,00</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles </p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
@@ -90,16 +106,19 @@
                     <div class="flex-card">
                         <div class="titulo">
                             <h5> Bacon Angus</h5>
-                            <h6>$10,99</h6>
+                            <h6>R$11,20</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles </p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!--BURGERS-->
+        <!--FIM BURGERS-->
 
         <!--PIZZA-->
         <div class="cards">
@@ -111,10 +130,13 @@
                     <div class="flex-card">
                         <div class="titulo">
                             <h5> Spinach Alfredo </h5>
-                            <h6>$12,99</h6>
+                            <h6>R$20,99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles </p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
@@ -123,10 +145,13 @@
                     <div class="flex-card">
                         <div class="titulo">
                             <h5> Buffalo Chicken </h5>
-                            <h6>$12,99</h6>
+                            <h6>R$21,00</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles </p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
@@ -134,11 +159,14 @@
                     <img src="../assets/new-pizza7-100x100.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5> Buffalo Chicken </h5>
-                            <h6>$12,99</h6>
+                            <h5> Zesty Ham & Cheddar </h5>
+                            <h6>R$23,50</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles </p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
@@ -146,11 +174,14 @@
                     <img src="../assets/new-pizza4-100x100.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5> Buffalo Chicken </h5>
-                            <h6>$12,99</h6>
+                            <h5> Quattro Stagioni </h5>
+                            <h6>R$21,30</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles </p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
@@ -158,11 +189,14 @@
                     <img src="../assets/new-pizza1-100x100.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5> Buffalo Chicken </h5>
-                            <h6>$12,99</h6>
+                            <h5> Proschiutto & Rucola </h5>
+                            <h6>R$22,90</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles </p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
@@ -170,21 +204,24 @@
                     <img src="../assets/new-pizza5-100x100.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5> Buffalo Chicken </h5>
-                            <h6>$12,99</h6>
+                            <h5> Toscan Chicken Pesto </h5>
+                            <h6>R$20,99</h6>
                         </div>
                         <div class="content-card">
-                            <p>LEmpilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles </p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!--PIZZA-->
     </div>
+    <!--PIZZA-->
+    <!--SALADA E FRITAS-->
     <div class="conteiner">
-        <div class="cards">
-            <!--SALADA E FRITAS-->
+        <div class="cards" id="fritas">
             <h1>FRITAS</h1>
             <div class="contents">
                 <P id="descricao">Hambúrguers artesanais sob encomenda. Servido com picles de alho e batatas fritas.</P>
@@ -192,12 +229,15 @@
                     <img src="../assets/side5-11-100x100.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Angus Original</h5>
-                            <h6>$9,99</h6>
+                            <h5>Classic Fries</h5>
+                            <h6>R$12,00</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles.
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!
                             </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
@@ -205,11 +245,14 @@
                     <img src="../assets/side6-11-100x100.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Bacon Angus</h5>
-                            <h6>$10,99</h6>
+                            <h5>Wedges Fries</h5>
+                            <h6>R$10,99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles </p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
@@ -217,20 +260,169 @@
                     <img src="../assets/side4-11-100x100.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5> Corporis, undet sui.</h5>
-                            <h6>$10,99</h6>
+                            <h5>Potato Fries </h5>
+                            <h6>R$11,00</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles </p>
+                            <p>ELorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1">
+                    <img src="../assets/side3-440x440.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5> Onion Rings </h5>
+                            <h6>R$13,00</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1">
+                    <img src="../assets/side2-440x440.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5>Mozzarella Sticks </h5>
+                            <h6>R$12,30</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1">
+                    <img src="../assets/side1-440x440.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5> Popcorn Shrimps </h5>
+                            <h6>R$13,90</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <!--SALADA-->
+        <div class="cards">
+            <!--SANDWICHES-->
+            <h1>SANDUÍCHES</h1>
+            <div class="contents">
+                <P id="descricao">Hambúrguers artesanais sob encomenda. Servido com picles de alho e batatas fritas.</P>
+                <div class="card-1">
+                    <img src="../assets/sandwich4-440x440.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5>Beef Avocado Sandwich </h5>
+                            <h6>R$13,00</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!
+                            </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1">
+                    <img src="../assets/sandwich3-440x440.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5>California Turkey Club </h5>
+                            <h6>R$10,99</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1">
+                    <img src="../assets/sandwich2-440x440.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5>Buffalo Chicken Ranch</h5>
+                            <h6>R$12,00</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1">
+                    <img src="../assets/sandwich1-440x440.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5>Shrimps Sandwich </h5>
+                            <h6>R$12,50</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1">
+                    <img src="../assets/wrap2-440x440.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5>Ranchero Chicken Tacos </h5>
+                            <h6>R$11,20</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1">
+                    <img src="../assets/wrap1-440x440.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5>Buffalo Chicken Wrap </h5>
+                            <h6>R$12,50</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--SANDWICHES-->
 
         <!--DRINKS-->
-        <div class="cards">
+    </div>
+    <div class="conteiner">
+        <div class="cards" id="drinks">
             <h1>DRINKS</h1>
             <div class="contents">
                 <P id="descricao">Lorem ipsum dolor sit amet consectetur,lorem lorem lorem lorem lorem lorem</P>
@@ -238,11 +430,14 @@
                     <img src="../assets/drinks4-100x100.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5> Spinach Alfredo </h5>
-                            <h6>$12,99</h6>
+                            <h5>Southern Ice Tea</h5>
+                            <h6>R$10,00</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles </p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
@@ -250,11 +445,14 @@
                     <img src="../assets/drinks2-100x100.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5> Buffalo Chicken </h5>
-                            <h6>$12,99</h6>
+                            <h5> Milk Shake</h5>
+                            <h6>R$12,99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles </p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
@@ -263,17 +461,75 @@
                     <img src="../assets/drinks1-100x100.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5> Buffalo Chicken </h5>
-                            <h6>$12,99</h6>
+                            <h5> Sugrafree Soda </h5>
+                            <h6>R$11,90</h6>
                         </div>
                         <div class="content-card">
-                            <p>Empilhado com abacate, pimenta Jack, cebola roxa, jalapeños assados, tomate e picles </p>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <!--DRINKS-->
+
+        <!--SOBREMESAS-->
+        <div class="cards">
+            <h1>SOBREMESAS</h1>
+            <div class="contents">
+                <P id="descricao">Lorem ipsum dolor sit amet consectetur,lorem lorem lorem lorem lorem lorem</P>
+                <div class="card-1 card-pizza">
+                    <img src="../assets/dessert2-440x440.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5> Chocolate Fudge Cake </h5>
+                            <h6>R$13,00</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1 card-pizza">
+                    <img src="../assets/dessert3-440x440.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5>Grandma's Berry Muffins </h5>
+                            <h6>R$14,80</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-1 card-pizza">
+                    <img src="../assets/dessert1-440x440.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5>Hand-Scooped</h5>
+                            <h6>R$13,60</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--SOBREMESAS-->
     </div>
 
     <!--Footer-->

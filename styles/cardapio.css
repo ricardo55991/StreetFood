@@ -47,7 +47,7 @@
 }
 
 .titulo{ 
-    border-bottom: 1px dotted #9e9d9a;
+    border-bottom: 1px dotted #727271;
     display: flex;
     justify-content: space-between;
     flex-wrap: nowrap;
@@ -70,7 +70,20 @@
 
 .content-card p{
     font-family: 'Roboto', sans-serif;
+    margin-bottom: auto;
 }
+
+.detalhes{
+    display:flex;
+    justify-content: right;
+
+}
+
+.detalhes button{
+    font-size: smaller;
+
+
+} 
 
 /* Headear */
 
