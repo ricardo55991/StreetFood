@@ -7,22 +7,22 @@
                 <div class="row">
                     <div class="col-2">
                         <ul class="nav flex-column">
-                            <a href="home.php">
+                            <a href="paginaInicial.php">
                                 <img src="../assets/logo.png" class="bi" width="65" height="65"></img>
                             </a>
-                            <li class="nav-item mb-2"><a href="sobre.php" class="nav-link p-0 text-muted">Sobre</a></li>
-                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Localização</a></li>
-                            <li class="nav-item mb-2"><a href="fale-conosco.php" class="nav-link p-0 text-muted">Fale conosco</a></li>
+                            <li class="nav-item mb-2"><a href="sobre.php" class="nav-link p-0 text-muted"><span class="item-footer">Sobre</span></a></li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><span class="item-footer">Localização</span></a></li>
+                            <li class="nav-item mb-2"><a href="faleConosco.php" class="nav-link p-0 text-muted"><span class="item-footer">Fale conosco</span></a></li>
                         </ul>
                     </div>
 
                     <div class="col-2">
                         <ul class="nav flex-column">
-                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Hambúrguer</a></li>
-                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Pizza</a></li>
-                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Sanduiche</a></li>
-                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Sobremesa</a></li>
-                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Bebidas</a></li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><span class="item-footer">Hambúrguer</span></a></li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><span class="item-footer">Pizza</span></a></li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><span class="item-footer">Sanduíche</span></a></li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><span class="item-footer">Sobremesa</span></a></li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><span class="item-footer">Bebida</span></a></li>
                         </ul>
                     </div>
 

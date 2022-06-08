@@ -12,28 +12,29 @@
 
 <body>
     <div id="login">
-        <form class="card">
+        <form class="card" action="../scripts/validacao.php" method="POST">
             <div class="logo">
                 <img src="../assets/logo.png">
             </div>
             <div class="card-content">
                 <div class="card-content-area">
-                    <label for="usuario">Login</label>
-                    <input type="text" id="usuario" autocomplete="off">
+                    <label for="email">Login</label>
+                    <input type="text" name="email" id="email" autocomplete="off" placeholder="Insira o email">
                 </div>
                 <div class="card-content-area">
-                    <label for="password">Senha</label>
-                    <input type="password" id="password" autocomplete="off">
+                    <label for="senha">Senha</label>
+                    <input type="password" name="senha" id="senha" autocomplete="off" placeholder="Insira a senha">
                 </div>
             </div>
             <div class="card-footer">
-                <a href="../pages/home.php">
-                    <input type="submit" value="Login" class="submit">
+                <a href="../pages/paginaInicial.php">
+                    <input type="submit" name="submit" value="Login" class="submit">
                 </a>
                 <a href="#" class="recuperar_senha">Esqueceu a senha?</a>
             </div>
         </form>
     </div>
+
 </body>
 
 </html>
