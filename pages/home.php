@@ -76,7 +76,7 @@
 
             <!--Cardápio-->
             <div class="container-cardapio">
-                <a href="#">
+                <a href="../pages/hamburgues.php">
                     <img src="../assets/hamburguer.jpg" class="w3-round" alt="Norway">
                 </a>
                 <a href="../pages/pizzas.php">
