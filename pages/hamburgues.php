@@ -24,31 +24,31 @@
               <div class="col-md-4">
                  <div class="box_text">
                  <a href="#">
-                    <i><img src="../assets/pizza-toscana.jpg" style="width: 300px;" alt="#"/></i>
+                    <i><img src="../assets/hamburguer-de-bacon.jpg" style="width: 300px;" alt="#"/></i>
                  </a>
-                    <h5>Pizza toscana</h5>
+                    <h5>Hambúrguer de Bacon</h5>
                     <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$ 29.99</a>
+                    <a href="#" class="btn btn-outline-danger">R$ 11.99</a>
                  </div>
               </div>
               <div class="col-md-4">
                  <div class="box_text">
                  <a href="#">
-                    <i><img src="../assets/pizza-margarita.jpg" style="width: 300px;" alt="#"/></i>
+                    <i><img src="../assets/hamburguer-jalapeno-angus.jpg" style="width: 300px;" alt="#"/></i>
                  </a>
-                    <h5>Pizza Margarita</h5>
+                    <h5>Hambúrguer Jalapeno Angus</h5>
                     <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$ 29.99</a>
+                    <a href="#" class="btn btn-outline-danger">R$ 4.99</a>
                  </div>
               </div>
               <div class="col-md-4">
                  <div class="box_text">
                  <a href="#">
-                    <i><img src="../assets/pizza-safari-de-carne.jpg" style="width: 300px;" alt="#"/></i>
+                    <i><img src="../assets/big-brekkie-hamburguer-de-churrasco.jpg" style="width: 300px;" alt="#"/></i>
                  </a>
-                    <h5>Pizza Safári de Carne</h5>
+                    <h5>Big Brekkie Hambúrguer de Churrasco</h5>
                     <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$ 29.99</a>
+                    <a href="#" class="btn btn-outline-danger">R$ 9.99</a>
                  </div>
               </div>
            </div>
@@ -61,75 +61,36 @@
               <div class="col-md-4">
                  <div class="box_text">
                  <a href="#">
-                    <i><img src="../assets/pizza-de-calabresa.jpg" style="width: 300px;" alt="#"/></i>
+                    <i><img src="../assets/hamburguer-angus-original.jpg" style="width: 300px;" alt="#"/></i>
                  </a>
-                    <h5>Pizza de calabresa</h5>
+                    <h5>Hambúrguer Angus Original</h5>
                     <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$ 29.99</a>
+                    <a href="#" class="btn btn-outline-danger">R$ 11.99</a>
                  </div>
               </div>
               <div class="col-md-4">
                  <div class="box_text">
                  <a href="#">
-                    <i><img src="../assets/pizza-bacon-paradise.jpg" style="width: 300px;" alt="#"/></i>
+                    <i><img src="../assets/hamburguer-de-cogumelos-portobello.jpg" style="width: 300px;" alt="#"/></i>
                  </a>
-                    <h5>Pizza Bacon Paradise</h5>
+                    <h5>Hambúrguer de Cogumelos Portobello</h5>
                     <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$ 22.99</a>
+                    <a href="#" class="btn btn-outline-danger">R$ 14.99</a>
                  </div>
               </div>
               <div class="col-md-4">
                  <div class="box_text">
                  <a href="#">
-                    <i><img src="../assets/santa-fe-pizza.jpg" style="width: 300px;" alt="#"/></i>
+                    <i><img src="../assets/hamburguer-de-bacon-ocidental.jpg" style="width: 300px;" alt="#"/></i>
                  </a>
-                    <h5>Santa Fé Pizza</h5>
+                    <h5>Hambúrguer de bacon ocidental</h5>
                     <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$ 24.994</a>
+                    <a href="#" class="btn btn-outline-danger">R$ 12.49</a>
                  </div>
               </div>
            </div>
         </div>
      </div>
-     <br>
-    <div class="three_box">
-        <div class="container">
-           <div class="row">
-              <div class="col-md-4">
-                 <div class="box_text">
-                 <a href="#">
-                    <i><img src="../assets/fungos-de-pizza.jpg" style="width: 300px;" alt="#"/></i>
-                 </a>
-                    <h5>Fungos de pizza</h5>
-                    <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$ 29.99</a>
-                 </div>
-              </div>
-              <div class="col-md-4">
-                 <div class="box_text">
-                 <a href="#">
-                    <i><img src="../assets/pizza-napoletana.jpg" style="width: 300px;" alt="#"/></i>
-                 </a>
-                    <h5>Pizza Napoletana</h5>
-                    <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$ 22.99</a>
-                 </div>
-              </div>
-              <div class="col-md-4">
-                 <div class="box_text">
-                 <a href="#">
-                    <i><img src="../assets/pizza-amatriciana.jpg" style="width: 300px;" alt="#"/></i>
-                 </a>
-                    <h5>Pizza Amatriciana</h5>
-                    <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger"class="btn-outline-danger">R$ 29.99</a>
-                 </div>
-              </div>
-           </div>
-        </div>
-     </div>
-   </div>
-     <br>
      <br>
     
     <!--opções de pizza-->
