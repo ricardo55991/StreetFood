@@ -17,7 +17,7 @@
     <?php include '../commons/header.php'; ?>
     <!--Menu-->
     <!--opções de pizza--><br>
-
+   <div class="pizzas">
     <div class="three_box">
         <div class="container">
            <div class="row">
@@ -110,6 +110,7 @@
            </div>
         </div>
      </div>
+   </div>
      <br>
      <br>
     
