@@ -13,9 +13,11 @@
 <body>
     <div id="login">
         <form class="card">
+            <a href="../pages/home.php">
             <div class="logo">
                 <img src="../assets/logo.png">
             </div>
+            </a>
             <div class="card-content">
                 <div class="card-content-area">
                     <label for="usuario">E-mail</label>
