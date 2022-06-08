@@ -79,7 +79,7 @@
                 <a href="#">
                     <img src="../assets/hamburguer.jpg" class="w3-round" alt="Norway">
                 </a>
-                <a href="#">
+                <a href="../pages/pizzas.php">
                     <img src="../assets/pizza.jpg" class="w3-round" alt="Norway">
                 </a>
                 <a href="#">

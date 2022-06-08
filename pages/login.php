@@ -31,7 +31,7 @@
                     <input type="submit" value="Login" class="submit">
                 </a><br>
                 <a href="#" class="recuperar_senha">Esqueceu a senha?</a><br>
-                <a href="#" class="cadastre-se">Novo por aqui? Clique aqui e crie sua conta.</a>
+                <a href="../pages/cadastre-se.php" class="cadastre-se">Novo por aqui? Clique aqui e crie sua conta.</a>
             </div>
         </form>
     </div>
