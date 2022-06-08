@@ -40,7 +40,7 @@
 <div class="container">
   <main>
     <div class="py-5 text-center">
-      <a href="../pages/home.php"><img class="d-block mx-auto mb-4" src="logo.png" alt="" width="72" height="72"></a>
+      <a href="../pages/paginaInicial.php"><img class="d-block mx-auto mb-4" src="logo.png" alt="" width="72" height="72"></a>
       <h2>Quase lá!</h2>
       <p class="lead">Por favor preencha as informações abaixo para realizarmos o seu pedido</p>
     </div>

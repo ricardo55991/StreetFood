@@ -13,7 +13,7 @@
 <body>
     <div id="login">
         <form class="card">
-            <a href="../pages/home.php">
+            <a href="../pages/paginaInicial.php">
                 <div class="logo">
                     <img src="../assets/logo.png">
                 </div>
@@ -45,7 +45,7 @@
                 </div>
             </div>
             <div class="card-footer">
-                <a href="../pages/home.php">
+                <a href="../pages/paginaInicial.php">
                     <input type="submit" value="Cadastrar" class="submit">
                 </a>
                 <a href="../pages/login.php" class="ja_tenho_cadastro">Já tem conta?</a>
