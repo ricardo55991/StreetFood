@@ -12,39 +12,39 @@
 
 <body>
     <div id="login">
-        <form class="card">
+        <form class="card" action="../scripts/cadastrar.php" method="POST">
                 <div class="logo">
                     <img src="../assets/logo.png">
                 </div>
             <div class="card-content">
                 <div class="card-content-area">
-                    <label for="nome">Nome</label>
-                    <input type="text" id="usuario" autocomplete="off" placeholder="Informe seu nome.">
+                    <label for="nome" >Nome</label>
+                    <input type="text" name="usuarioCadastro" id="usuarioCadastro" autocomplete="off" placeholder="Informe seu nome.">
                 </div>
                 <div class="card-content-area">
                     <label for="cpf">CPF</label>
-                    <input type="text" id="cpf" autocomplete="off"  placeholder="Informe seu CPF.">
+                    <input type="text" name="cpf" id="cpf" autocomplete="off"  placeholder="Informe seu CPF.">
                 </div>
                 <div class="card-content-area">
                     <label for="email">E-mail</label>
-                    <input type="email" id="email" autocomplete="off" placeholder="Informe seu e-mail.">
+                    <input type="email" name="emailCadastro" id="emailCadastro" autocomplete="off" placeholder="Informe seu e-mail.">
                 </div>
                 <div class="card-content-area">
                     <label for="ntelefone">Número de telefone</label>
-                    <input type="tel" id="ntelefone" autocomplete="off" placeholder="Informe seu número de telefone.">
+                    <input type="tel" name="numTelefone" id="numTelefone" autocomplete="off" placeholder="Informe seu número de telefone.">
                 </div>
                 <div class="card-content-area">
                     <label for="dnascimento">Data de nascimento</label>
-                    <input type="date" id="dnascimento" autocomplete="off">
+                    <input type="date" name="dataNascimento" id="dataNascimento" autocomplete="off">
                 </div>
                 <div class="card-content-area">
                     <label for="password">Senha</label>
-                    <input type="password" id="password" autocomplete="off" placeholder="Crie uma senha.">
+                    <input type="password" name="senhaCadastro" id="senhaCadastro" autocomplete="off" placeholder="Crie uma senha.">
                 </div>
             </div>
             <div class="card-footer">
                 <a href="../pages/paginaInicial.php">
-                    <input type="submit" value="Cadastrar" class="submit">
+                    <input type="submit" name="submit" value="Cadastrar" class="submit">
                 </a>
                 <a href="../pages/login.php" class="ja_tenho_cadastro">Já tem conta?</a>
             </div>

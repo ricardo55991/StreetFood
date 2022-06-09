@@ -25,6 +25,30 @@ class Usuario{
         }
     }
 
+    public function cadastrar($usuarioCadastro, $cpf, $emailCadastro, $numTelefone, $dataNascimento, $senhaCadastro){
+        global $pdo;
+
+        $sql = "insert into dbfood.cliente (cpf, nome, email, senha, telefone, data_nascimento)
+                values (:cpf , :nome , :email , :senha , :telefone , :data)";
+        $sql = $pdo->prepare($sql);
+        $sql->execute(array(
+            ':cpf' => $cpf,
+            ':nome' => $usuarioCadastro,
+            ':email' => $emailCadastro,
+            ':senha' => $senhaCadastro,
+            ':telefone' => $numTelefone,
+            ':data' => $dataNascimento
+        ));
+
+        try{
+            return true;
+        }
+        catch(Exception $e){
+            return false;
+        }
+
+    }
+
     public function logged($id){
         global $pdo;
 
