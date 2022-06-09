@@ -18,12 +18,9 @@ if(empty($nomeUser)){
                     <li class="nav-item">
                         <a class="nav-link" href="sobre.php">Sobre</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="cardapio.php">Cardápio</a>
-                    </li>
                     <img class="logo" href="index.php" src="../assets/logo.png">
                     <li class="nav-item">
-                        <a class="nav-link" href="">Localização</a>
+                        <a class="nav-link" href="cardapio.php">Cardápio</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="faleConosco.php">Fale conosco</a>
@@ -54,12 +51,9 @@ else{
                     <li class="nav-item">
                         <a class="nav-link" href="sobre.php">Sobre</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="cardapio.php">Cardápio</a>
-                    </li>
                     <img class="logo" href="index.php" src="../assets/logo.png">
                     <li class="nav-item">
-                        <a class="nav-link" href="">Localização</a>
+                        <a class="nav-link" href="cardapio.php">Cardápio</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="faleConosco.php">Fale conosco</a>

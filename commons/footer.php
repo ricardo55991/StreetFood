@@ -18,11 +18,12 @@
 
                     <div class="col-2">
                         <ul class="nav flex-column">
-                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><span class="item-footer">Hambúrguer</span></a></li>
-                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><span class="item-footer">Pizza</span></a></li>
-                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><span class="item-footer">Sanduíche</span></a></li>
-                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><span class="item-footer">Sobremesa</span></a></li>
-                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><span class="item-footer">Bebida</span></a></li>
+                            <li class="nav-item mb-2"><a href="hamburgues.php" class="nav-link p-0 text-muted"><span class="item-footer">Hambúrguer</span></a></li>
+                            <li class="nav-item mb-2"><a href="pizzas.php" class="nav-link p-0 text-muted"><span class="item-footer">Pizza</span></a></li>
+                            <li class="nav-item mb-2"><a href="sanduiches.php" class="nav-link p-0 text-muted"><span class="item-footer">Sanduíche</span></a></li>
+                            <li class="nav-item mb-2"><a href="sobremesas.php" class="nav-link p-0 text-muted"><span class="item-footer">Sobremesa</span></a></li>
+                            <li class="nav-item mb-2"><a href="bebidas.php" class="nav-link p-0 text-muted"><span class="item-footer">Bebida</span></a></li>
+                            <li class="nav-item mb-2"><a href="acompanhamentos.php" class="nav-link p-0 text-muted"><span class="item-footer">Acompanhamento</span></a></li>
                         </ul>
                     </div>
 
