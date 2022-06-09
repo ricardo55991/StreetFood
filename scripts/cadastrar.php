@@ -14,15 +14,10 @@ if(isset($_POST['usuarioCadastro']) && !empty($_POST['usuarioCadastro']) && isse
     $dataNascimento = addslashes($_POST['dataNascimento']);
 	$senhaCadastro = addslashes($_POST['senhaCadastro']);
 
-	if($user->cadastrar($usuarioCadastro, $cpf, $emailCadastro, $numTelefone, $dataNascimento, $senhaCadastro) == true){
-        header("Location: ../pages/login.php");
-	} else{
-		header("Location: ../pages/cadastro.php");
-	}
+	$user->cadastrar($usuarioCadastro, $cpf, $emailCadastro, $numTelefone, $dataNascimento, $senhaCadastro);
+        
 }
-else{
-	header("Location: ../pages/login.php");
-}
+
 
 
 ?>

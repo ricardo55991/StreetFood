@@ -12,7 +12,7 @@
 
 <body>
     <div id="login">
-        <form class="card" action="../scripts/cadastrar.php" method="POST">
+        <form class="card" action="../scripts/validacao.php" method="POST">
             <div class="logo">
                 <img src="../assets/logo.png">
             </div>
