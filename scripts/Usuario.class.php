@@ -42,6 +42,24 @@ class Usuario{
         return $array;
 
     }
+
+    public function detalhes($id){
+        global $pdo;
+
+        $array = array();
+
+        $sql = "select * from dbfood.produto p where p.id = :id";
+        $sql = $pdo->prepare($sql);
+        $sql->bindValue("id", $id);
+        $sql->execute();
+
+        if($sql->rowCount() > 0){
+            $array = $sql->fetch();
+        }
+        
+        return $array;
+
+    }
 }
 
 ?>

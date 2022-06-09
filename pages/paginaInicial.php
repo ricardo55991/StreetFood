@@ -1,3 +1,13 @@
+<?php
+    session_start();
+    if (isset($_GET['produtoUnidade']))
+    {
+        $produto = ($_GET['produtoUnidade']);
+        $_SESSION['idProduto'] = $produto;
+        header("Location: ../scripts/detalhesProduto.php");
+    }
+?>
+
 <!doctype html>
 <html lang="pt-br">
 
@@ -113,7 +123,7 @@
                             <a href="#"><img src="../assets/hamburguer-de-bacon.jpg" style="width: 300px;" alt="#" /></a>
                             <h5>Hambúrguer de Bacon</h5>
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho. </p>
-                            <a href="../scripts/conexao.php" class="btn btn-outline-danger">Peça agora!</a>
+                            <a href="?produtoUnidade=91" class="btn btn-outline-danger">Peça agora!</a>
                         </div>
                     </div>
                     <div class="col-md-4">
