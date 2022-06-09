@@ -1,3 +1,13 @@
+<?php
+    session_start();
+    if (isset($_GET['produtoUnidade']))
+    {
+        $produto = ($_GET['produtoUnidade']);
+        $_SESSION['idProduto'] = $produto;
+        header("Location: ../pages/produtoDescricao.php");
+    }
+?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -36,8 +46,8 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho
                             </p>
                         </div>
-                        <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <div class="detalhes"> 
+                            <a class="btn btn-warning" href="?produtoUnidade=91" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -52,7 +62,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=92" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -67,7 +77,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=93" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -82,7 +92,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=94" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -97,7 +107,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=95" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -112,7 +122,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=96" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -137,7 +147,7 @@
                             </p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=106" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -152,7 +162,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=107" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -167,7 +177,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=108" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -182,7 +192,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=109" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -197,7 +207,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=110" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -212,7 +222,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=111" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -240,7 +250,7 @@
                             </p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=112" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -255,7 +265,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=113" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -270,7 +280,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=114" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -285,7 +295,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=115" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -300,7 +310,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=116" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -315,7 +325,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=117" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -330,7 +340,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=118" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -345,7 +355,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=119" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -360,7 +370,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=120" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -385,7 +395,7 @@
                             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=97" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -400,7 +410,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=98" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -415,7 +425,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=99" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -430,7 +440,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=100" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -445,7 +455,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=101" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -460,7 +470,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=102" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -475,7 +485,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=103" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -490,7 +500,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=104" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -505,7 +515,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=105" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -533,7 +543,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=124" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -548,7 +558,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=125" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -564,7 +574,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=126" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -588,7 +598,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=121" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -603,7 +613,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=122" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -619,7 +629,7 @@
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        <a class="btn btn-warning" href="?produtoUnidade=123" role="button">Comprar</a>
                         </div>
                     </div>
                 </div>
