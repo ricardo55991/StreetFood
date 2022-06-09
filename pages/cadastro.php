@@ -19,19 +19,19 @@
             <div class="card-content">
                 <div class="card-content-area">
                     <label for="nome">Nome</label>
-                    <input type="text" id="usuario" autocomplete="off">
+                    <input type="text" id="usuario" autocomplete="off" placeholder="Informe seu nome.">
                 </div>
                 <div class="card-content-area">
                     <label for="cpf">CPF</label>
-                    <input type="text" id="cpf" autocomplete="off">
+                    <input type="text" id="cpf" autocomplete="off"  placeholder="Informe seu CPF.">
                 </div>
                 <div class="card-content-area">
                     <label for="email">E-mail</label>
-                    <input type="email" id="email" autocomplete="off">
+                    <input type="email" id="email" autocomplete="off" placeholder="Informe seu e-mail.">
                 </div>
                 <div class="card-content-area">
                     <label for="ntelefone">Número de telefone</label>
-                    <input type="tel" id="ntelefone" autocomplete="off">
+                    <input type="tel" id="ntelefone" autocomplete="off" placeholder="Informe seu número de telefone.">
                 </div>
                 <div class="card-content-area">
                     <label for="dnascimento">Data de nascimento</label>
@@ -39,7 +39,7 @@
                 </div>
                 <div class="card-content-area">
                     <label for="password">Senha</label>
-                    <input type="password" id="password" autocomplete="off">
+                    <input type="password" id="password" autocomplete="off" placeholder="Crie uma senha.">
                 </div>
             </div>
             <div class="card-footer">

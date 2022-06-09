@@ -20,7 +20,7 @@
                 <div class="card-content-area">
                 <label> Insira seu e-mail que você usou no cadastro. Nós mandaremos um e-mail com um link para você redefinir sua senha.</label><br>
                     <label for="usuario">E-mail</label>
-                    <input type="text" id="usuario" autocomplete="off">
+                    <input type="text" id="usuario" autocomplete="off" placeholder="Informe seu e-mail.">
                 </div>
             </div>
             <div class="card-footer">
