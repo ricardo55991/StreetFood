@@ -13,7 +13,7 @@
     
 
     <!-- Bootstrap core CSS -->
-<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="../styles/bootstrap.min.css" rel="stylesheet">
 
     <style>
       .bd-placeholder-img {
@@ -33,14 +33,14 @@
 
     
     <!-- Custom styles for this template -->
-    <link href="form-validation.css" rel="stylesheet">
+    <link href="../styles/pagamento.css" rel="stylesheet">
   </head>
   <body class="bg-light">
     
 <div class="container">
   <main>
     <div class="py-5 text-center">
-      <a href="../pages/paginaInicial.php"><img class="d-block mx-auto mb-4" src="logo.png" alt="" width="72" height="72"></a>
+      <img class="d-block mx-auto mb-4" src="../assets/logo.png" alt="" width="72" height="72">
       <h2>Quase lá!</h2>
       <p class="lead">Por favor preencha as informações abaixo para realizarmos o seu pedido</p>
     </div>
