@@ -23,32 +23,32 @@
            <div class="row">
               <div class="col-md-4">
                  <div class="box_text">
-                 <a href="#">
+                 <a href="?produtoUnidade=121">
                     <i><img src="../assets/bolo-de-chocolate.jpg" style="width: 300px;" alt="#"/></i>
                  </a>
                     <h5>Bolo de chocolate</h5>
                     <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$ 4.99</a>
+                    <a href="?produtoUnidade=121" class="btn btn-outline-danger">R$ 4.99</a>
                  </div>
               </div>
               <div class="col-md-4">
                  <div class="box_text">
-                 <a href="#">
+                 <a href="?produtoUnidade=122">
                     <i><img src="../assets/muffins-de-frutas-da-vovo.jpg" style="width: 300px;" alt="#"/></i>
                  </a>
                     <h5>Muffins de frutas da vovó</h5>
                     <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$ 5.99</a>
+                    <a href="?produtoUnidade=122" class="btn btn-outline-danger">R$ 5.99</a>
                  </div>
               </div>
               <div class="col-md-4">
                  <div class="box_text">
-                 <a href="#">
+                 <a href="?produtoUnidade=123">
                     <i><img src="../assets/sorvete-feito-a-mao.jpg" style="width: 300px;" alt="#"/></i>
                  </a>
                     <h5>Sorvete feito à mão</h5>
                     <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$ 5.99</a>
+                    <a href="?produtoUnidade=123" class="btn btn-outline-danger">R$ 5.99</a>
                  </div>
               </div>
            </div>

@@ -23,32 +23,32 @@
            <div class="row">
               <div class="col-md-4">
                  <div class="box_text">
-                 <a href="#">
+                 <a href="?produtoUnidade=106">
                     <i><img src="../assets/sanduiche-de-abacate.jpg" style="width: 300px;" alt="#"/></i>
                  </a>
                     <h5>Sanduíche de abacate</h5>
                     <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$ 6.49</a>
+                    <a href="?produtoUnidade=106" class="btn btn-outline-danger">R$ 6.49</a>
                  </div>
               </div>
               <div class="col-md-4">
                  <div class="box_text">
-                 <a href="#">
+                 <a href="?produtoUnidade=107">
                     <i><img src="../assets/clube-california-turquia.jpg" style="width: 300px;" alt="#"/></i>
                  </a>
                     <h5>Clube Califórnia Turquia</h5>
                     <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$ 6.49</a>
+                    <a href="?produtoUnidade=107" class="btn btn-outline-danger">R$ 6.49</a>
                  </div>
               </div>
               <div class="col-md-4">
                  <div class="box_text">
-                 <a href="#">
+                 <a href="?produtoUnidade=108">
                     <i><img src="../assets/sanduiche-de-frango-de-bufalo.jpg" style="width: 300px;" alt="#"/></i>
                  </a>
                     <h5>Sanduíche de frango & búfalo</h5>
                     <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$ 6.99</a>
+                    <a href="?produtoUnidade=108" class="btn btn-outline-danger">R$ 6.99</a>
                  </div>
               </div>
            </div>
@@ -60,32 +60,32 @@
            <div class="row">
               <div class="col-md-4">
                  <div class="box_text">
-                 <a href="#">
+                 <a href="?produtoUnidade=109">
                     <i><img src="../assets/sanduiche-de-camarao-pipoca.jpg" style="width: 300px;" alt="#"/></i>
                  </a>
                     <h5>Sanduíche de camarão pipoca</h5>
                     <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$ 8.99</a>
+                    <a href="?produtoUnidade=109" class="btn btn-outline-danger">R$ 8.99</a>
                  </div>
               </div>
               <div class="col-md-4">
                  <div class="box_text">
-                 <a href="#">
+                 <a href="?produtoUnidade=110">
                     <i><img src="../assets/tacos-de-frango-ranchero.jpg" style="width: 300px;" alt="#"/></i>
                  </a>
                     <h5>Tacos de Frango Ranchero</h5>
                     <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$6.99</a>
+                    <a href="?produtoUnidade=110" class="btn btn-outline-danger">R$6.99</a>
                  </div>
               </div>
               <div class="col-md-4">
                  <div class="box_text">
-                 <a href="#">
+                 <a href="?produtoUnidade=111">
                     <i><img src="../assets/wrap-de-bufalo-e-frango.jpg" style="width: 300px;" alt="#"/></i>
                  </a>
                     <h5>Wrap de bufalo e frango</h5>
                     <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                    <a href="#" class="btn btn-outline-danger">R$ 3.99</a>
+                    <a href="?produtoUnidade=111" class="btn btn-outline-danger">R$ 3.99</a>
                  </div>
               </div>
            </div>
