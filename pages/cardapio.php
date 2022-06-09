@@ -22,18 +22,18 @@
     <!--BURGERS-->
     <div class="conteiner">
         <div class="cards">
-            <h1>Hambúrguers</h1>
+            <h1>HAMBÚRGUERS</h1>
             <div class="contents">
                 <P id="descricao">Hambúrguers artesanais sob encomenda. Servido com picles de alho e batatas fritas.</P>
                 <div class="card-1">
-                    <img src="../assets/burger15-100x100.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/hamburguer-de-bacon.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Angus Original</h5>
-                            <h6>R$9,99</h6>
+                            <h5>Hambúrguer de Bacon</h5>
+                            <h6>R$11.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho
                             </p>
                         </div>
                         <div class="detalhes">
@@ -42,14 +42,14 @@
                     </div>
                 </div>
                 <div class="card-1">
-                    <img src="../assets/burger11.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/hamburguer-jalapeno-angus.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Bacon Angus</h5>
-                            <h6>R$10,99</h6>
+                            <h5>Hambúrguer Jalapeno Angus</h5>
+                            <h6>R$4.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
@@ -57,14 +57,14 @@
                     </div>
                 </div>
                 <div class="card-1">
-                    <img src="../assets/burger20-100x100.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/big-brekkie-hamburguer-de-churrasco.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5> BBQ Bacon Burger</h5>
-                            <h6>R$12,90</h6>
+                            <h5> Big Brekkie Hambúrguer de Churrasco</h5>
+                            <h6>R$9.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
@@ -72,14 +72,14 @@
                     </div>
                 </div>
                 <div class="card-1">
-                    <img src="../assets/burger17-100x100.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/hamburguer-angus-original.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Western Bacon Angus</h5>
-                            <h6>R$13,30</h6>
+                            <h5>Hambúrguer Angus Original</h5>
+                            <h6>R$11.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
@@ -87,14 +87,14 @@
                     </div>
                 </div>
                 <div class="card-1">
-                    <img src="../assets/burger12-100x100.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/hamburguer-de-cogumelos-portobello.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Shroom Angus Burger</h5>
-                            <h6>R$15,00</h6>
+                            <h5>Hambúrguer de Cogumelos Portobello</h5>
+                            <h6>R$14.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
@@ -102,14 +102,14 @@
                     </div>
                 </div>
                 <div class="card-1">
-                    <img src="../assets/burger16-100x100.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/hamburguer-de-bacon-ocidental.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5> Bacon Angus</h5>
-                            <h6>R$11,20</h6>
+                            <h5>Hambúrguer de bacon ocidental</h5>
+                            <h6>R$12.49</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
@@ -120,120 +120,20 @@
         </div>
         <!--FIM BURGERS-->
 
-        <!--PIZZA-->
+        <!--sandwiches-->
         <div class="cards">
-            <h1>PIZZA</h1>
+            <h1>SANDUÍCHES</h1>
             <div class="contents">
-                <P id="descricao">Lorem ipsum dolor sit amet consectetur,lorem lorem lorem lorem lorem lorem</P>
-                <div class="card-1 card-pizza">
-                    <img src="../assets/new-pizza10.jpg" alt="..." class="img-thumb">
-                    <div class="flex-card">
-                        <div class="titulo">
-                            <h5> Spinach Alfredo </h5>
-                            <h6>R$20,99</h6>
-                        </div>
-                        <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
-                        </div>
-                        <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="card-1 card-pizza">
-                    <img src="../assets/new-pizza9-100x100.jpg" alt="..." class="img-thumb">
-                    <div class="flex-card">
-                        <div class="titulo">
-                            <h5> Buffalo Chicken </h5>
-                            <h6>R$21,00</h6>
-                        </div>
-                        <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
-                        </div>
-                        <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="card-1 card-pizza">
-                    <img src="../assets/new-pizza7-100x100.jpg" alt="..." class="img-thumb">
-                    <div class="flex-card">
-                        <div class="titulo">
-                            <h5> Zesty Ham & Cheddar </h5>
-                            <h6>R$23,50</h6>
-                        </div>
-                        <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
-                        </div>
-                        <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="card-1 card-pizza">
-                    <img src="../assets/new-pizza4-100x100.jpg" alt="..." class="img-thumb">
-                    <div class="flex-card">
-                        <div class="titulo">
-                            <h5> Quattro Stagioni </h5>
-                            <h6>R$21,30</h6>
-                        </div>
-                        <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
-                        </div>
-                        <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="card-1 card-pizza">
-                    <img src="../assets/new-pizza1-100x100.jpg" alt="..." class="img-thumb">
-                    <div class="flex-card">
-                        <div class="titulo">
-                            <h5> Proschiutto & Rucola </h5>
-                            <h6>R$22,90</h6>
-                        </div>
-                        <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
-                        </div>
-                        <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="card-1 card-pizza">
-                    <img src="../assets/new-pizza5-100x100.jpg" alt="..." class="img-thumb">
-                    <div class="flex-card">
-                        <div class="titulo">
-                            <h5> Toscan Chicken Pesto </h5>
-                            <h6>R$20,99</h6>
-                        </div>
-                        <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
-                        </div>
-                        <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--PIZZA-->
-    <!--SALADA E FRITAS-->
-    <div class="conteiner">
-        <div class="cards" id="fritas">
-            <h1>FRITAS</h1>
-            <div class="contents">
-                <P id="descricao">Hambúrguers artesanais sob encomenda. Servido com picles de alho e batatas fritas.</P>
+                <P id="descricao">sanduíches artesanais sob encomenda. Servido com picles de alho e batatas fritas.</P>
                 <div class="card-1">
-                    <img src="../assets/side5-11-100x100.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/sanduiche-de-abacate.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Classic Fries</h5>
-                            <h6>R$12,00</h6>
+                            <h5>Sanduíche de abacate </h5>
+                            <h6>R$6.49</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho
                             </p>
                         </div>
                         <div class="detalhes">
@@ -242,14 +142,14 @@
                     </div>
                 </div>
                 <div class="card-1">
-                    <img src="../assets/side6-11-100x100.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/clube-california-turquia.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Wedges Fries</h5>
-                            <h6>R$10,99</h6>
+                            <h5>Clube Califórnia Turquia </h5>
+                            <h6>R$6.49</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
@@ -257,14 +157,14 @@
                     </div>
                 </div>
                 <div class="card-1">
-                    <img src="../assets/side4-11-100x100.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/sanduiche-de-frango-de-bufalo.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Potato Fries </h5>
-                            <h6>R$11,00</h6>
+                            <h5>Sanduíche de frango de búfalo</h5>
+                            <h6>R$6.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>ELorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
@@ -272,14 +172,14 @@
                     </div>
                 </div>
                 <div class="card-1">
-                    <img src="../assets/side3-440x440.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/sanduiche-de-camarao-pipoca.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5> Onion Rings </h5>
-                            <h6>R$13,00</h6>
+                            <h5>Sanduíche de camarão pipoca </h5>
+                            <h6>R$8.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
@@ -287,14 +187,14 @@
                     </div>
                 </div>
                 <div class="card-1">
-                    <img src="../assets/side2-440x440.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/tacos-de-frango-ranchero.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Mozzarella Sticks </h5>
-                            <h6>R$12,30</h6>
+                            <h5>Tacos de Frango Ranchero </h5>
+                            <h6>R$6.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
@@ -302,14 +202,162 @@
                     </div>
                 </div>
                 <div class="card-1">
-                    <img src="../assets/side1-440x440.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/wrap-de-bufalo-e-frango.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5> Popcorn Shrimps </h5>
-                            <h6>R$13,90</h6>
+                            <h5>Wrap de bufalo e frango </h5>
+                            <h6>R$3.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!--sandwiches-->
+
+    <!--SALADA E FRITAS-->
+    <div class="conteiner">
+        <div class="cards" id="fritas">
+            <h1>FRITAS</h1>
+            <div class="contents">
+                <P id="descricao">Acompanhamentos artesanais sob encomenda. Servido com picles de alho e batatas fritas.</P>
+                <div class="card-1">
+                    <img src="../assets/batatas-fritas.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5>Batatas fritas</h5>
+                            <h6>R$3.99</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho
+                            </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1">
+                    <img src="../assets/chips-bufalo.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5>Chips de Búfalo</h5>
+                            <h6>R$4.99</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1">
+                    <img src="../assets/batata-em-rodelas.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5>Batata em rodelas </h5>
+                            <h6>R$4.99</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1">
+                    <img src="../assets/aneis-de-cebola.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5> Anéis de cebola </h5>
+                            <h6>R$3.49</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1">
+                    <img src="../assets/palitos-de-mussarela.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5>Palitos de Mussarela </h5>
+                            <h6>R$5.99</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1">
+                    <img src="../assets/camaroes-pipoca.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5> Camarões Pipoca </h5>
+                            <h6>R$8.99</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1">
+                    <img src="../assets/santa-fe-chicken-salad.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5> Santa Fe Chicken Salad </h5>
+                            <h6>R$8.49</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1">
+                    <img src="../assets/salada-explosão-quesadilla.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5> Salada Explosão Quesadilla </h5>
+                            <h6>R$6.99</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1">
+                    <img src="../assets/side-fresco-salad.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5> Side Fresco Salad </h5>
+                            <h6>R$7.99</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
@@ -319,33 +367,19 @@
             </div>
         </div>
         <!--SALADA-->
-        <div class="cards">
-            <!--SANDWICHES-->
-            <h1>SANDUÍCHES</h1>
+
+         <!--pizza-->
+
+         <div class="cards">
+            <h1>PIZZA</h1>
             <div class="contents">
-                <P id="descricao">Hambúrguers artesanais sob encomenda. Servido com picles de alho e batatas fritas.</P>
-                <div class="card-1">
-                    <img src="../assets/sandwich4-440x440.jpg" alt="..." class="img-thumb">
+                <P id="descricao">pizza artesanais sob encomenda. Servido com picles de alho e batatas fritas.</P>
+                <div class="card-1 card-pizza">
+                    <img src="../assets/pizza-toscana.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Beef Avocado Sandwich </h5>
-                            <h6>R$13,00</h6>
-                        </div>
-                        <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!
-                            </p>
-                        </div>
-                        <div class="detalhes">
-                            <button type="button" class="btn btn-warning">Detalhes</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="card-1">
-                    <img src="../assets/sandwich3-440x440.jpg" alt="..." class="img-thumb">
-                    <div class="flex-card">
-                        <div class="titulo">
-                            <h5>California Turkey Club </h5>
-                            <h6>R$10,99</h6>
+                            <h5> Pizza toscana </h5>
+                            <h6>R$24.99</h6>
                         </div>
                         <div class="content-card">
                             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
@@ -355,69 +389,131 @@
                         </div>
                     </div>
                 </div>
-                <div class="card-1">
-                    <img src="../assets/sandwich2-440x440.jpg" alt="..." class="img-thumb">
+                <div class="card-1 card-pizza">
+                    <img src="../assets/pizza-margarita.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Buffalo Chicken Ranch</h5>
-                            <h6>R$12,00</h6>
+                            <h5> Pizza Margarita </h5>
+                            <h6>R$24.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
-                <div class="card-1">
-                    <img src="../assets/sandwich1-440x440.jpg" alt="..." class="img-thumb">
+                <div class="card-1 card-pizza">
+                    <img src="../assets/pizza-safari-de-carne.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Shrimps Sandwich </h5>
-                            <h6>R$12,50</h6>
+                            <h5> Pizza Safári de Carne </h5>
+                            <h6>R$24.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
-                <div class="card-1">
-                    <img src="../assets/wrap2-440x440.jpg" alt="..." class="img-thumb">
+                <div class="card-1 card-pizza">
+                    <img src="../assets/pizza-de-calabresa.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Ranchero Chicken Tacos </h5>
-                            <h6>R$11,20</h6>
+                            <h5> Pizza de calabresa </h5>
+                            <h6>R$24.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
-                <div class="card-1">
-                    <img src="../assets/wrap1-440x440.jpg" alt="..." class="img-thumb">
+                <div class="card-1 card-pizza">
+                    <img src="../assets/pizza-bacon-paradise.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Buffalo Chicken Wrap </h5>
-                            <h6>R$12,50</h6>
+                            <h5> Pizza Bacon Paradise </h5>
+                            <h6>R$22.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
                         </div>
                     </div>
                 </div>
+                <div class="card-1 card-pizza">
+                    <img src="../assets/santa-fe-pizza.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5> Santa Fe Pizza </h5>
+                            <h6>R$24.99</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1 card-pizza">
+                    <img src="../assets/fungos-de-pizza.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5> Fungos de pizza </h5>
+                            <h6>R$29.99</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1 card-pizza">
+                    <img src="../assets/pizza-napoletana.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5> Pizza Napoletana </h5>
+                            <h6>R$22.99</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-1 card-pizza">
+                    <img src="../assets/pizza-amatriciana.jpg" alt="..." class="img-thumb">
+                    <div class="flex-card">
+                        <div class="titulo">
+                            <h5> Pizza Amatriciana </h5>
+                            <h6>R$29.99</h6>
+                        </div>
+                        <div class="content-card">
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
+                        </div>
+                        <div class="detalhes">
+                            <button type="button" class="btn btn-warning">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
         </div>
-        <!--SANDWICHES-->
+
+        <!--pizza-->
 
         <!--DRINKS-->
     </div>
@@ -425,16 +521,16 @@
         <div class="cards" id="drinks">
             <h1>DRINKS</h1>
             <div class="contents">
-                <P id="descricao">Lorem ipsum dolor sit amet consectetur,lorem lorem lorem lorem lorem lorem</P>
+                <P id="descricao">dinks artesanais sob encomenda. Servido com picles de alho e batatas fritas.</P>
                 <div class="card-1 card-pizza">
-                    <img src="../assets/drinks4-100x100.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/leite-kahlua.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Southern Ice Tea</h5>
-                            <h6>R$10,00</h6>
+                            <h5>Leite Kahlua</h5>
+                            <h6>R$4.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
@@ -442,14 +538,14 @@
                     </div>
                 </div>
                 <div class="card-1 card-pizza">
-                    <img src="../assets/drinks2-100x100.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/batidos-de-leite.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5> Milk Shake</h5>
-                            <h6>R$12,99</h6>
+                            <h5> Batidos de Leite</h5>
+                            <h6>R$3.49</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
@@ -458,14 +554,14 @@
                 </div>
 
                 <div class="card-1 card-pizza">
-                    <img src="../assets/drinks1-100x100.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/chá-gelado-do-sul.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5> Sugrafree Soda </h5>
-                            <h6>R$11,90</h6>
+                            <h5> Chá gelado do sul </h5>
+                            <h6>R$2.49</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho </p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
@@ -480,16 +576,16 @@
         <div class="cards">
             <h1>SOBREMESAS</h1>
             <div class="contents">
-                <P id="descricao">Lorem ipsum dolor sit amet consectetur,lorem lorem lorem lorem lorem lorem</P>
+                <P id="descricao">sobremesas sob encomenda. Servido com picles de alho e batatas fritas.</P>
                 <div class="card-1 card-pizza">
-                    <img src="../assets/dessert2-440x440.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/bolo-de-chocolate.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5> Chocolate Fudge Cake </h5>
-                            <h6>R$13,00</h6>
+                            <h5> Bolo de chocolate </h5>
+                            <h6>R$4.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae! </p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
@@ -497,14 +593,14 @@
                     </div>
                 </div>
                 <div class="card-1 card-pizza">
-                    <img src="../assets/dessert3-440x440.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/muffins-de-frutas-da-vovo.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Grandma's Berry Muffins </h5>
-                            <h6>R$14,80</h6>
+                            <h5>Muffins de frutas da vovó </h5>
+                            <h6>R$5.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
@@ -513,14 +609,14 @@
                 </div>
 
                 <div class="card-1 card-pizza">
-                    <img src="../assets/dessert1-440x440.jpg" alt="..." class="img-thumb">
+                    <img src="../assets/sorvete-feito-a-mao.jpg" alt="..." class="img-thumb">
                     <div class="flex-card">
                         <div class="titulo">
-                            <h5>Hand-Scooped</h5>
-                            <h6>R$13,60</h6>
+                            <h5>Sorvete feito à mão</h5>
+                            <h6>R$5.99</h6>
                         </div>
                         <div class="content-card">
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, recusandae!</p>
+                            <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho</p>
                         </div>
                         <div class="detalhes">
                             <button type="button" class="btn btn-warning">Detalhes</button>
