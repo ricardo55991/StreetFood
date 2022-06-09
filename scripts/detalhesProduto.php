@@ -8,10 +8,10 @@ if (isset($_SESSION['idProduto']) && !empty($_SESSION['idProduto']))
     $user = new Usuario();
 
     $listLogged = $user->detalhes($_SESSION['idProduto']);
-    $nomeProduto = $listLogged['nome'];
-    $detalhesProduto = $listLogged['descricao'];
-    $precoProduto = $listLogged['preco'];
-    $imagemProduto = $listLogged['imagem'];
+    $nomeProduto = utf8_encode($listLogged['nome']);
+    $detalhesProduto = utf8_encode($listLogged['descricao']);
+    $precoProduto = utf8_encode($listLogged['preco']);
+    $imagemProduto = utf8_encode($listLogged['imagem']);
     
     echo '<section class="container sproduct my-3 pt-6">
     <div class="row mt-5">
