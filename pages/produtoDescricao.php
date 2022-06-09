@@ -31,13 +31,31 @@
                     <li class="nav-item">
                         <a class="nav-link" href="sobre.php">Sobre</a>
                     </li>
-                    <img class="logo" href="paginaInicial.php" src="../assets/logo.png">
                     <li class="nav-item">
                         <a class="nav-link" href="cardapio.php">Cardápio</a>
+                    </li>
+                    <img class="logo" href="index.php" src="../assets/logo.png">
+                    <li class="nav-item">
+                        <a class="nav-link" href="localizacao.php">Localização</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="faleConosco.php">Fale conosco</a>
                     </li>
+
+                    <form class="d-flex" style="margin-left: 20px;">
+                        <a class="btn btn-outline-light" type="submit" href="pagamento.php">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cart-fill mb-1" viewBox="0 0 16 16">
+                            <path d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5zM5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
+                        </svg>
+                            Carrinho
+                            <span class="badge bg-dark text-white ms-1 rounded-pill">
+                            <span id="incremento">
+                                0
+                            </span>
+                            </span>
+                        </a>
+                    </form>
+
                 </ul>
             </div>
         </div>
@@ -53,6 +71,32 @@
 <script src="/scripts/home.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous">
 </script>
+<script>
+
+    var valorTotal = 0;
+    if(Number(sessionStorage.getItem('valorTotal')) > 0){
+        valorTotal = Number(sessionStorage.getItem('valorTotal'));
+    }
+
+    function carrinho(valor){
+        var y = Number(sessionStorage.getItem('incremento'));
+        ++y;
+        document.getElementById('incremento').innerHTML = y;
+        sessionStorage.setItem('incremento', Number(y))
+
+        valorTotal += valor
+        sessionStorage.setItem('valorTotal', parseFloat(valorTotal.toFixed(2)))
+        console.log(sessionStorage.getItem('incremento'))
+    }
+
+</script>
+
+<?php
+//    $valorTotal = "<script>document.write(sessionStorage.getItem('valorTotal'))</script>";
+//    echo $valorTotal;
+    // $incremento = "<script>document.write(sessionStorage.getItem('incremento'))</script>";
+    // $_SESSION['Incremento'] = $incremento
+?>
 </body>
 
 </html>

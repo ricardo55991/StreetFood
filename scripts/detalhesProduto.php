@@ -22,7 +22,7 @@ if (isset($_SESSION['idProduto']) && !empty($_SESSION['idProduto']))
             <h2>'. $nomeProduto .'</h2>
                 <h3 class="text-bold fw-bolder fs-5">R$'. $precoProduto .'</h3>
                 <input type="number" value="1">
-                <button class="btn btn-warning mt-2 ">Adicionar ao pedido</button>
+                <button onclick="carrinho('.$precoProduto.')" class="btn btn-warning mt-2 ">Adicionar ao pedido</button>
                 <h4 class="mt-4 mb-4 fw-bolder">Detalhes do produto</h4>
                 <span>'. $detalhesProduto .'</span>
                 <i class="bi bi-clipboard-pulse"></i>
