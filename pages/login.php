@@ -30,7 +30,7 @@
                 <a href="../pages/paginaInicial.php">
                     <input type="submit" name="submit" value="Login" class="submit">
                 </a><br>
-                <a href="#" class="recuperar_senha">Esqueceu a senha?</a><br>
+                <a href="../pages/esquecisenha.php" class="recuperar_senha">Esqueceu a senha?</a><br>
                 <a href="../pages/cadastro.php" class="-cadastro">Novo por aqui? Clique aqui e crie sua conta.</a>
             </div>
         </form>
