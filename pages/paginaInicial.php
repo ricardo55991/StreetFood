@@ -4,7 +4,7 @@
     {
         $produto = ($_GET['produtoUnidade']);
         $_SESSION['idProduto'] = $produto;
-        header("Location: ../scripts/detalhesProduto.php");
+        header("Location: ../pages/produtoDescricao.php");
     }
 ?>
 
@@ -120,7 +120,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="box_text">
-                            <a href="#"><img src="../assets/hamburguer-de-bacon.jpg" style="width: 300px;" alt="#" /></a>
+                            <a href="?produtoUnidade=91"><img src="../assets/hamburguer-de-bacon.jpg" style="width: 300px;" alt="#" /></a>
                             <h5>Hambúrguer de Bacon</h5>
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho. </p>
                             <a href="?produtoUnidade=91" class="btn btn-outline-danger">Peça agora!</a>
@@ -128,18 +128,18 @@
                     </div>
                     <div class="col-md-4">
                         <div class="box_text">
-                            <a href="#"><img src="../assets/hamburguer-jalapeno-angus.jpg" style="width: 300px;" alt="#" /></a>
+                            <a href="?produtoUnidade=92"><img src="../assets/hamburguer-jalapeno-angus.jpg" style="width: 300px;" alt="#" /></a>
                             <h5>Hambúrguer Jalapeno Angus</h5>
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                            <a href="#" class="btn btn-outline-danger">Peça agora!</a>
+                            <a href="?produtoUnidade=92" class="btn btn-outline-danger">Peça agora!</a>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="box_text">
-                            <a href="#"><img src="../assets/big-brekkie-hamburguer-de-churrasco.jpg" style="width: 300px;" alt="#" /></a>
+                            <a href="?produtoUnidade=93"><img src="../assets/big-brekkie-hamburguer-de-churrasco.jpg" style="width: 300px;" alt="#" /></a>
                             <h5>Big Brekkie Hambúrguer de Churrasco</h5>
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                            <a href="#" class="btn btn-outline-danger">Peça agora!</a>
+                            <a href="?produtoUnidade=93" class="btn btn-outline-danger">Peça agora!</a>
                         </div>
                     </div>
                 </div>
@@ -154,26 +154,26 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="box_text">
-                            <a href="#"><img src="../assets/pizza-toscana.jpg" style="width: 300px;" alt="#" /></a>
+                            <a href="?produtoUnidade=97"><img src="../assets/pizza-toscana.jpg" style="width: 300px;" alt="#" /></a>
                             <h5>Pizza toscana</h5>
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho. </p>
-                            <a href="#" class="btn btn-outline-danger">Peça agora!</a>
+                            <a href="?produtoUnidade=97" class="btn btn-outline-danger">Peça agora!</a>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="box_text">
-                            <a href="#"><img src="../assets/pizza-margarita.jpg" style="width: 300px;" alt="#" /></a>
+                            <a href="?produtoUnidade=98"><img src="../assets/pizza-margarita.jpg" style="width: 300px;" alt="#" /></a>
                             <h5>Pizza Margarita</h5>
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                            <a href="#" class="btn btn-outline-danger">Peça agora!</a>
+                            <a href="?produtoUnidade=98" class="btn btn-outline-danger">Peça agora!</a>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="box_text">
-                            <a href="#"><img src="../assets/pizza-safari-de-carne.jpg" style="width: 300px;" alt="#" /></a>
+                            <a href="?produtoUnidade=99"><img src="../assets/pizza-safari-de-carne.jpg" style="width: 300px;" alt="#" /></a>
                             <h5>Pizza Safári de Carne</h5>
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                            <a href="#" class="btn btn-outline-danger">Peça agora!</a>
+                            <a href="?produtoUnidade=99" class="btn btn-outline-danger">Peça agora!</a>
                         </div>
                     </div>
                 </div>
@@ -188,26 +188,26 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="box_text">
-                            <a href="#"><img src="../assets/sanduiche-de-abacate.jpg" style="width: 300px;" alt="#" /></a>
+                            <a href="?produtoUnidade=106"><img src="../assets/sanduiche-de-abacate.jpg" style="width: 300px;" alt="#" /></a>
                             <h5>Sanduíche de abacate</h5>
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho. </p>
-                            <a href="#" class="btn btn-outline-danger">Peça agora!</a>
+                            <a href="?produtoUnidade=106" class="btn btn-outline-danger">Peça agora!</a>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="box_text">
-                            <a href="#"><img src="../assets/clube-california-turquia.jpg" style="width: 300px;" alt="#" /></a>
+                            <a href="?produtoUnidade=107"><img src="../assets/clube-california-turquia.jpg" style="width: 300px;" alt="#" /></a>
                             <h5>Clube Califórnia Turquia</h5>
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                            <a href="#" class="btn btn-outline-danger">Peça agora!</a>
+                            <a href="?produtoUnidade=107" class="btn btn-outline-danger">Peça agora!</a>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="box_text">
-                            <a href="#"><img src="../assets/sanduiche-de-frango-de-bufalo.jpg" style="width: 300px;" alt="#" /></a>
+                            <a href="?produtoUnidade=108"><img src="../assets/sanduiche-de-frango-de-bufalo.jpg" style="width: 300px;" alt="#" /></a>
                             <h5>Sanduíche de frango de búfalo</h5>
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                            <a href="#" class="btn btn-outline-danger">Peça agora!</a>
+                            <a href="?produtoUnidade=108" class="btn btn-outline-danger">Peça agora!</a>
                         </div>
                     </div>
                 </div>
@@ -233,26 +233,26 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="box_text">
-                            <a href="#"><img src="../assets/chips-bufalo.jpg" style="width: 300px;" alt="#" /></a>
+                            <a href="?produtoUnidade=113"><img src="../assets/chips-bufalo.jpg" style="width: 300px;" alt="#" /></a>
                             <h5>Chips de Búfalo</h5>
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho. </p>
-                            <a href="#" class="btn btn-outline-danger">R$ 4,99</a>
+                            <a href="?produtoUnidade=113" class="btn btn-outline-danger">R$ 4,99</a>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="box_text">
-                            <a href="#"><img src="../assets/aneis-de-cebola.jpg" style="width: 300px;" alt="#" /></a>
+                            <a href="?produtoUnidade=115"><img src="../assets/aneis-de-cebola.jpg" style="width: 300px;" alt="#" /></a>
                             <h5>Anéis de cebola</h5>
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                            <a href="#" class="btn btn-outline-danger">R$ 3,49</a>
+                            <a href="?produtoUnidade=115" class="btn btn-outline-danger">R$ 3,49</a>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="box_text">
-                            <a href="#"><img src="../assets/batatas-fritas.jpg" style="width: 300px;" alt="#" /></a>
+                            <a href="?produtoUnidade=112"><img src="../assets/batatas-fritas.jpg" style="width: 300px;" alt="#" /></a>
                             <h5>Batatas fritas</h5>
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                            <a href="#" class="btn btn-outline-danger">R$ 3,99</a>
+                            <a href="?produtoUnidade=112" class="btn btn-outline-danger">R$ 3,99</a>
                         </div>
                     </div>
                 </div>
@@ -264,26 +264,26 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="box_text">
-                            <a href="#"><img src="../assets/batata-em-rodelas.jpg" style="width: 300px;" alt="#" /></a>
+                            <a href="?produtoUnidade=114"><img src="../assets/batata-em-rodelas.jpg" style="width: 300px;" alt="#" /></a>
                             <h5>Batata em rodelas</h5>
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho. </p>
-                            <a href="#" class="btn btn-outline-danger">R$ 4,99</a>
+                            <a href="?produtoUnidade=114" class="btn btn-outline-danger">R$ 4,99</a>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="box_text">
-                            <a href="#"><img src="../assets/santa-fe-chicken-salad.jpg" style="width: 300px;" alt="#" /></a>
+                            <a href="?produtoUnidade=118"><img src="../assets/santa-fe-chicken-salad.jpg" style="width: 300px;" alt="#" /></a>
                             <h5>Santa Fe Chicken Salad</h5>
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                            <a href="#" class="btn btn-outline-danger">R$ 8,59</a>
+                            <a href="?produtoUnidade=118" class="btn btn-outline-danger">R$ 8,59</a>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="box_text">
-                            <a href="#"><img src="../assets/side-fresco-salad.jpg" style="width: 300px;" alt="#" /></a>
+                            <a href="?produtoUnidade=120"><img src="../assets/side-fresco-salad.jpg" style="width: 300px;" alt="#" /></a>
                             <h5>Side Fresco Salad</h5>
                             <p>Peito defumado, costelinha, linguiça defumada, bacon e cheddar com alface, tomate, churrasco da casa e rancho.</p>
-                            <a href="#" class="btn btn-outline-danger">R$ 7,99</a>
+                            <a href="?produtoUnidade=120" class="btn btn-outline-danger">R$ 7,99</a>
                         </div>
                     </div>
                 </div>
