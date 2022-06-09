@@ -1,3 +1,13 @@
+<?php
+    session_start();
+    if (isset($_GET['produtoUnidade']))
+    {
+        $produto = ($_GET['produtoUnidade']);
+        $_SESSION['idProduto'] = $produto;
+        header("Location: ../pages/produtoDescricao.php");
+    }
+?>
+
 <!doctype html>
 <html lang="pt-br">
 
