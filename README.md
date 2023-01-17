@@ -1,8 +1,6 @@
 # StreetFood
 Projeto Academico 
 
-# assets
-# pages
-# scripts
-# styles
+🖥️ Sobre
+O projeto apresenta um site de vendas de comidas fast food.
 
